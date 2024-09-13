@@ -202,6 +202,7 @@ module ibex_top import ibex_pkg::*; #(
   logic                        scramble_req_d, scramble_req_q;
 
   ibex_mubi_t                  fetch_enable_buf;
+  i
 
   /////////////////////
   // Main clock gate //
